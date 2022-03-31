@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/ ; mkdir my_first_directory
+echo 'my first directory' > /tmp/my_first_directory
